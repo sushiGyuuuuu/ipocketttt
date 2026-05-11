@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "iPocket.API\\iPocket.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "iPocket.Winforms\\iPocket.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

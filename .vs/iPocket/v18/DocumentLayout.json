@@ -1,0 +1,648 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\Downloads\\ipocket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA484FA0-EDB0-0CEF-2C3A-D7D00F542E21}|iPocket.API\\iPocket.API.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA484FA0-EDB0-0CEF-2C3A-D7D00F542E21}|iPocket.API\\iPocket.API.csproj|solutionrelative:ipocket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA484FA0-EDB0-0CEF-2C3A-D7D00F542E21}|iPocket.API\\iPocket.API.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.api\\services\\walletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA484FA0-EDB0-0CEF-2C3A-D7D00F542E21}|iPocket.API\\iPocket.API.csproj|solutionrelative:ipocket.api\\services\\walletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA484FA0-EDB0-0CEF-2C3A-D7D00F542E21}|iPocket.API\\iPocket.API.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.api\\services\\savingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA484FA0-EDB0-0CEF-2C3A-D7D00F542E21}|iPocket.API\\iPocket.API.csproj|solutionrelative:ipocket.api\\services\\savingsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA484FA0-EDB0-0CEF-2C3A-D7D00F542E21}|iPocket.API\\iPocket.API.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA484FA0-EDB0-0CEF-2C3A-D7D00F542E21}|iPocket.API\\iPocket.API.csproj|solutionrelative:ipocket.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA484FA0-EDB0-0CEF-2C3A-D7D00F542E21}|iPocket.API\\iPocket.API.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.api\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA484FA0-EDB0-0CEF-2C3A-D7D00F542E21}|iPocket.API\\iPocket.API.csproj|solutionrelative:ipocket.api\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA484FA0-EDB0-0CEF-2C3A-D7D00F542E21}|iPocket.API\\iPocket.API.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.api\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA484FA0-EDB0-0CEF-2C3A-D7D00F542E21}|iPocket.API\\iPocket.API.csproj|solutionrelative:ipocket.api\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA484FA0-EDB0-0CEF-2C3A-D7D00F542E21}|iPocket.API\\iPocket.API.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.api\\migrations\\20240501000000_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA484FA0-EDB0-0CEF-2C3A-D7D00F542E21}|iPocket.API\\iPocket.API.csproj|solutionrelative:ipocket.api\\migrations\\20240501000000_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA484FA0-EDB0-0CEF-2C3A-D7D00F542E21}|iPocket.API\\iPocket.API.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.api\\dtos\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA484FA0-EDB0-0CEF-2C3A-D7D00F542E21}|iPocket.API\\iPocket.API.csproj|solutionrelative:ipocket.api\\dtos\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA484FA0-EDB0-0CEF-2C3A-D7D00F542E21}|iPocket.API\\iPocket.API.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA484FA0-EDB0-0CEF-2C3A-D7D00F542E21}|iPocket.API\\iPocket.API.csproj|solutionrelative:ipocket.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA484FA0-EDB0-0CEF-2C3A-D7D00F542E21}|iPocket.API\\iPocket.API.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.api\\controllers\\controllers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA484FA0-EDB0-0CEF-2C3A-D7D00F542E21}|iPocket.API\\iPocket.API.csproj|solutionrelative:ipocket.api\\controllers\\controllers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.winforms\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|solutionrelative:ipocket.winforms\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|solutionrelative:ipocket.winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.winforms\\formnavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|solutionrelative:ipocket.winforms\\formnavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.winforms\\form920.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|solutionrelative:ipocket.winforms\\form920.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.winforms\\form919.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|solutionrelative:ipocket.winforms\\form919.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.winforms\\form918.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|solutionrelative:ipocket.winforms\\form918.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.winforms\\form917.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|solutionrelative:ipocket.winforms\\form917.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.winforms\\form916.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|solutionrelative:ipocket.winforms\\form916.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.winforms\\form915.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|solutionrelative:ipocket.winforms\\form915.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.winforms\\form914.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|solutionrelative:ipocket.winforms\\form914.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.winforms\\form913.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|solutionrelative:ipocket.winforms\\form913.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.winforms\\form912.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|solutionrelative:ipocket.winforms\\form912.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.winforms\\form911.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|solutionrelative:ipocket.winforms\\form911.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.winforms\\form910.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|solutionrelative:ipocket.winforms\\form910.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.winforms\\form9.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|solutionrelative:ipocket.winforms\\form9.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.winforms\\form8.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|solutionrelative:ipocket.winforms\\form8.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.winforms\\form7.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|solutionrelative:ipocket.winforms\\form7.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.winforms\\form6.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|solutionrelative:ipocket.winforms\\form6.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.winforms\\form5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|solutionrelative:ipocket.winforms\\form5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.winforms\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|solutionrelative:ipocket.winforms\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.winforms\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|solutionrelative:ipocket.winforms\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.winforms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|solutionrelative:ipocket.winforms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.winforms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|solutionrelative:ipocket.winforms\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.winforms\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|solutionrelative:ipocket.winforms\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.winforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|solutionrelative:ipocket.winforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|solutionrelative:ipocket.winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|c:\\users\\asus\\downloads\\ipocket\\ipocket.winforms\\form912.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{32183AB0-C182-29D6-EE5C-8B50A98CAB5A}|iPocket.Winforms\\iPocket.csproj|solutionrelative:ipocket.winforms\\form912.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Form912.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form912.cs",
+              "RelativeDocumentMoniker": "iPocket.Winforms\\Form912.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form912.cs [Design]",
+              "RelativeToolTip": "iPocket.Winforms\\Form912.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T14:46:58.557Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WalletService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.API\\Services\\WalletService.cs",
+              "RelativeDocumentMoniker": "iPocket.API\\Services\\WalletService.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.API\\Services\\WalletService.cs",
+              "RelativeToolTip": "iPocket.API\\Services\\WalletService.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAkwHQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:20:16.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SavingsService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.API\\Services\\SavingsService.cs",
+              "RelativeDocumentMoniker": "iPocket.API\\Services\\SavingsService.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.API\\Services\\SavingsService.cs",
+              "RelativeToolTip": "iPocket.API\\Services\\SavingsService.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAA9wGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:19:24.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.API\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "iPocket.API\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.API\\Services\\AuthService.cs",
+              "RelativeToolTip": "iPocket.API\\Services\\AuthService.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAkwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:18:07.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.API\\Models\\Models.cs",
+              "RelativeDocumentMoniker": "iPocket.API\\Models\\Models.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.API\\Models\\Models.cs",
+              "RelativeToolTip": "iPocket.API\\Models\\Models.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAALcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:17:37.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.API\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "iPocket.API\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.API\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "iPocket.API\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:17:24.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.API\\Program.cs",
+              "RelativeDocumentMoniker": "iPocket.API\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.API\\Program.cs",
+              "RelativeToolTip": "iPocket.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:13:17.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240501000000_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.API\\Migrations\\20240501000000_InitialCreate.cs",
+              "RelativeDocumentMoniker": "iPocket.API\\Migrations\\20240501000000_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.API\\Migrations\\20240501000000_InitialCreate.cs",
+              "RelativeToolTip": "iPocket.API\\Migrations\\20240501000000_InitialCreate.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAQwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:17:07.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DTOs.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.API\\DTOs\\DTOs.cs",
+              "RelativeDocumentMoniker": "iPocket.API\\DTOs\\DTOs.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.API\\DTOs\\DTOs.cs",
+              "RelativeToolTip": "iPocket.API\\DTOs\\DTOs.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:16:48.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "iPocket.API\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "iPocket.API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwv1IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:16:41.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Controllers.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.API\\Controllers\\Controllers.cs",
+              "RelativeDocumentMoniker": "iPocket.API\\Controllers\\Controllers.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.API\\Controllers\\Controllers.cs",
+              "RelativeToolTip": "iPocket.API\\Controllers\\Controllers.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAkwL0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:14:52.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\UserSession.cs",
+              "RelativeDocumentMoniker": "iPocket.Winforms\\UserSession.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\UserSession.cs",
+              "RelativeToolTip": "iPocket.Winforms\\UserSession.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:12:47.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Program.cs",
+              "RelativeDocumentMoniker": "iPocket.Winforms\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Program.cs",
+              "RelativeToolTip": "iPocket.Winforms\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:12:35.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormNavigator.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\FormNavigator.cs",
+              "RelativeDocumentMoniker": "iPocket.Winforms\\FormNavigator.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\FormNavigator.cs",
+              "RelativeToolTip": "iPocket.Winforms\\FormNavigator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:10:11.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form920.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form920.Designer.cs",
+              "RelativeDocumentMoniker": "iPocket.Winforms\\Form920.Designer.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form920.Designer.cs",
+              "RelativeToolTip": "iPocket.Winforms\\Form920.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:09:55.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form919.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form919.Designer.cs",
+              "RelativeDocumentMoniker": "iPocket.Winforms\\Form919.Designer.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form919.Designer.cs",
+              "RelativeToolTip": "iPocket.Winforms\\Form919.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:09:33.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form918.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form918.Designer.cs",
+              "RelativeDocumentMoniker": "iPocket.Winforms\\Form918.Designer.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form918.Designer.cs",
+              "RelativeToolTip": "iPocket.Winforms\\Form918.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:09:08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form917.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form917.Designer.cs",
+              "RelativeDocumentMoniker": "iPocket.Winforms\\Form917.Designer.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form917.Designer.cs",
+              "RelativeToolTip": "iPocket.Winforms\\Form917.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:08:43.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form916.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form916.Designer.cs",
+              "RelativeDocumentMoniker": "iPocket.Winforms\\Form916.Designer.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form916.Designer.cs",
+              "RelativeToolTip": "iPocket.Winforms\\Form916.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:08:09.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form915.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form915.Designer.cs",
+              "RelativeDocumentMoniker": "iPocket.Winforms\\Form915.Designer.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form915.Designer.cs",
+              "RelativeToolTip": "iPocket.Winforms\\Form915.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:07:54.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form914.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form914.Designer.cs",
+              "RelativeDocumentMoniker": "iPocket.Winforms\\Form914.Designer.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form914.Designer.cs",
+              "RelativeToolTip": "iPocket.Winforms\\Form914.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:07:33.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form913.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form913.Designer.cs",
+              "RelativeDocumentMoniker": "iPocket.Winforms\\Form913.Designer.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form913.Designer.cs",
+              "RelativeToolTip": "iPocket.Winforms\\Form913.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:07:08.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form912.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form912.Designer.cs",
+              "RelativeDocumentMoniker": "iPocket.Winforms\\Form912.Designer.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form912.Designer.cs",
+              "RelativeToolTip": "iPocket.Winforms\\Form912.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:05:45.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form911.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form911.Designer.cs",
+              "RelativeDocumentMoniker": "iPocket.Winforms\\Form911.Designer.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form911.Designer.cs",
+              "RelativeToolTip": "iPocket.Winforms\\Form911.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:05:21.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form910.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form910.Designer.cs",
+              "RelativeDocumentMoniker": "iPocket.Winforms\\Form910.Designer.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form910.Designer.cs",
+              "RelativeToolTip": "iPocket.Winforms\\Form910.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:03:52.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form9.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form9.Designer.cs",
+              "RelativeDocumentMoniker": "iPocket.Winforms\\Form9.Designer.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form9.Designer.cs",
+              "RelativeToolTip": "iPocket.Winforms\\Form9.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:03:20.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form8.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form8.Designer.cs",
+              "RelativeDocumentMoniker": "iPocket.Winforms\\Form8.Designer.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form8.Designer.cs",
+              "RelativeToolTip": "iPocket.Winforms\\Form8.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:02:46.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form7.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form7.Designer.cs",
+              "RelativeDocumentMoniker": "iPocket.Winforms\\Form7.Designer.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form7.Designer.cs",
+              "RelativeToolTip": "iPocket.Winforms\\Form7.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:02:07.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form6.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form6.Designer.cs",
+              "RelativeDocumentMoniker": "iPocket.Winforms\\Form6.Designer.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form6.Designer.cs",
+              "RelativeToolTip": "iPocket.Winforms\\Form6.Designer.cs",
+              "ViewState": "AgIAAD4BAAAAAAAAAAAYwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:01:32.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Form5.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form5.Designer.cs",
+              "RelativeDocumentMoniker": "iPocket.Winforms\\Form5.Designer.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form5.Designer.cs",
+              "RelativeToolTip": "iPocket.Winforms\\Form5.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:00:55.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Form4.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form4.Designer.cs",
+              "RelativeDocumentMoniker": "iPocket.Winforms\\Form4.Designer.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form4.Designer.cs",
+              "RelativeToolTip": "iPocket.Winforms\\Form4.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:00:06.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "iPocket.Winforms\\Form3.Designer.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form3.Designer.cs",
+              "RelativeToolTip": "iPocket.Winforms\\Form3.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T04:59:45.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form3.cs",
+              "RelativeDocumentMoniker": "iPocket.Winforms\\Form3.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form3.cs",
+              "RelativeToolTip": "iPocket.Winforms\\Form3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T04:59:42.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form3.cs",
+              "RelativeDocumentMoniker": "iPocket.Winforms\\Form3.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form3.cs [Design]",
+              "RelativeToolTip": "iPocket.Winforms\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T04:59:38.466Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "iPocket.Winforms\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form2.Designer.cs",
+              "RelativeToolTip": "iPocket.Winforms\\Form2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T04:59:08.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "iPocket.Winforms\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form1.Designer.cs",
+              "RelativeToolTip": "iPocket.Winforms\\Form1.Designer.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAYwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T04:57:24.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form1.cs",
+              "RelativeDocumentMoniker": "iPocket.Winforms\\Form1.cs",
+              "ToolTip": "C:\\Users\\asus\\Downloads\\ipocket\\iPocket.Winforms\\Form1.cs",
+              "RelativeToolTip": "iPocket.Winforms\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T04:56:52.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
